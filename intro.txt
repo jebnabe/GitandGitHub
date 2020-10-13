@@ -1,5 +1,5 @@
 Hey there!
-My name is <name>.
+My name is Jebin.
 I did my UG in <course> from <college>.
 Currently I'm doing MSc Data Science and my register number is <register number>.
 
